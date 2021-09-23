@@ -1,0 +1,17 @@
+{
+  "name": "persistence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ibm-cloud/cloudant": "0.0.18",
+    "express": "^4.17.1",
+    "superagent": "^6.1.0"
+  }
+}
